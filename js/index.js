@@ -9,11 +9,6 @@ output += '---------\n';
 
 alert(output);
 
-/*
-let sum = a+b;
-let sub = a-b;
-let mul = a*b;
 
-// alert()
-*/
+
 
