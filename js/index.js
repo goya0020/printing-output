@@ -23,7 +23,21 @@ output += 'a < b = ' + (a < b) + "\n";
 output += '!a && !c = ' + (!a && !c) + "\n";
 output += '!a || !c = ' + (!a || !c) + "\n";
 
-alert(output);
 
+let first_name = "Ritish";
+let last_name = "Goyal";
+let email = "goya0020@algonquinlive.com";
+
+    output = 'My name is '
+    output += first_name;
+    output += ' ';
+    output += last_name;
+    output += '.'
+    output += ' ';
+    output += 'You can contact me at ';
+    output += email;
+    output += '.'
+    
+alert(output);
 
 
