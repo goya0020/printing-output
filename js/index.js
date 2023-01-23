@@ -23,6 +23,8 @@ output += 'a < b = ' + (a < b) + "\n";
 output += '!a && !c = ' + (!a && !c) + "\n";
 output += '!a || !c = ' + (!a || !c) + "\n";
 
+alert(output);
+
 
 let first_name = "Ritish";
 let last_name = "Goyal";
